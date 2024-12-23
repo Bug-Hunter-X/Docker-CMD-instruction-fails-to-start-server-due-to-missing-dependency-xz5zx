@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error: the CMD instruction fails to start the server due to a missing dependency. The provided solution demonstrates how to correctly install necessary packages before running the server.
